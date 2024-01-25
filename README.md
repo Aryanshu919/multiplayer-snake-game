@@ -14,10 +14,6 @@ A remake of the classic Snakes and Ladders Board game.
 - Node.js
 - socket.io
 
-## Contributors
-
-- [Souparno Paul](https://www.github.com/Soupaul)
-- [Nirvik Agarwal](https://www.github.com/nirvikagarwal)
 
 ## Resources used
 
@@ -28,4 +24,4 @@ A remake of the classic Snakes and Ladders Board game.
 
 ![working image](snakes_and_ladders.png)
 
-### For the [GNU/Linux User's Group, NIT Durgapur](https://www.github.com/lugnitdgp).
+
