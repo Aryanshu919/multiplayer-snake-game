@@ -6,7 +6,7 @@ A remake of the classic Snakes and Ladders Board game.
 
 ### Objectives.
 
-- Teaching the basics of socket programming using **Node.js** and **socket.io**
+- Learning the basics of socket programming using **Node.js** and **socket.io**
 
 ## Codebase Used
 
