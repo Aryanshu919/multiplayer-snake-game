@@ -1,5 +1,5 @@
 // Making Connection
-const socket = io.connect("https://multiplayer-snake-game-n1ne.vercel.app/");
+const socket = io.connect("http://multiplayer-snake-game-n1ne.vercel.app/");
 socket.emit("joined");
 
 let players = []; // All players in the game
